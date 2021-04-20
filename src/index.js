@@ -10,7 +10,7 @@ import PRComments from './PRComments';
 
 ReactDOM.render(
   
-    <PRComments />
+    <App />
   ,
   document.getElementById('root')
 );
